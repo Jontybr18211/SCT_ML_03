@@ -15,7 +15,6 @@ This repository contains a simple yet effective image classification pipeline th
 
 - Python
 - Scikit-learn
-- Joblib
 - NumPy
 - Jupyter Notebook
 
